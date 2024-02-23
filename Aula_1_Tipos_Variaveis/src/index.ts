@@ -1,5 +1,5 @@
 // Tipo number para números
-let idade: number = 25;
+let idade: number = 24;
 let altura: number = 1.75;
 
 console.log(idade)
