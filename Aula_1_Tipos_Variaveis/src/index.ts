@@ -20,7 +20,7 @@ let nomes: string[] = ["Maria", "João", "Ana"];
 let pessoa: [string, number] = ["João", 25];
 
 // Tipo any para qualquer tipo de valor (evitar usar quando possível)
-let valorQualquer: any = 10;
+let valorQualquer: any = 20;
 valorQualquer = "abc";
 valorQualquer = true;
 
